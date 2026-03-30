@@ -1,6 +1,9 @@
 Digital Literacy PortfolioCSE0001 - Project Assignment
 
-Student Information Name: [NACHIKET GADGE] Reg No: [25BCE10852] Branch: Computer Science Engineering Role: Student Digital Ambassador
+Student Information Name: [NACHIKET GADGE]
+Reg No: [25BCE10852]
+Branch: Computer Science Engineering
+Role: Student Digital Ambassador
 
 Project OverviewThis repository contains my complete Digital Literacy Portfolio. As a Student Digital Ambassador, I have completed five tasks covering digital tools, professional branding, and online safety.
 
